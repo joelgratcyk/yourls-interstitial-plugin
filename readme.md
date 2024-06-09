@@ -1,6 +1,6 @@
 ## Joel’s Interstitial Plugin for YOURLs
 
-Copyright (C) 2014 - 2022 Joel Gratcyk
+Copyright (C) 2014 - 2024 Joel Gratcyk
 
 https://joel.gr/joels-interstitial-plugin-yourls/
 
